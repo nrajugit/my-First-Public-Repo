@@ -1,1 +1,2 @@
 This is my first file in GitHub
+This is my second line of text
